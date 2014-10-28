@@ -1,0 +1,10 @@
+# Site settings
+title: Xavier's website
+email: gxferreira@gmail.com
+description: Xavier is a web-based and Java system developer
+url: gxferreira.github.io
+github_username: gxferreira
+
+# Build settings
+markdown: kramdown
+permalink: pretty
