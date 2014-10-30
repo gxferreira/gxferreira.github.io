@@ -4,4 +4,4 @@ title: My boring thursday
 image: http://covers.booktopia.com.au/big/9780199298525/oxford-beginner-s-japanese-dictionary.jpg
 ---
 
-{{site.image}}
+<img src="{{site.image}}" />
