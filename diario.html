@@ -1,0 +1,11 @@
+---
+title: Diário de bordo - DAG
+layout: default
+---
+<ul>
+  {% for diario in site.diarios %}
+    <li>
+      <a href="{{diario.url}}">{{diario.title}}</a>
+    </li>
+  {% endfor %}  
+</ul>
