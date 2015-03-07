@@ -3,9 +3,9 @@ title: Diário de bordo - DAG -
 layout: default
 ---
 <ul>
-  {% for diario in site.categories.diarios %}
+  {% for diario in site.categories %}
     <li>
-      {{ diario.output }}
+      {{ diario }}
     </li>
   {% endfor %}  
 </ul>
