@@ -5,7 +5,7 @@ layout: default
 <ul>
   {% for diario in site.categories.diarios %}
     <li>
-      <a href="{{diario.url}}">{{diario.title}}</a>
+      {{ diario.output }}
     </li>
   {% endfor %}  
 </ul>
