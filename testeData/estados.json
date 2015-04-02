@@ -1,0 +1,719 @@
+[
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/12.json",
+    "id": 12,
+    "nome": "Acre",
+    "sigla": "AC",
+    "local_institucional": [
+      {
+        "nome": "Alto Acre e Capixaba - AC",
+        "codigo": "4"
+      },
+      {
+        "nome": "Vale Do Juru\u00e1 - AC",
+        "codigo": "106"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/13.json",
+    "id": 13,
+    "nome": "Amazonas",
+    "sigla": "AM",
+    "local_institucional": [
+      {
+        "nome": "Alto Juru\u00e1 - AM",
+        "codigo": "6"
+      },
+      {
+        "nome": "Baixo Amazonas - AM",
+        "codigo": "17"
+      },
+      {
+        "nome": "Madeira - AM",
+        "codigo": "119"
+      },
+      {
+        "nome": "Manaus e Entorno - AM",
+        "codigo": "44"
+      },
+      {
+        "nome": "Mesorregi\u00e3o Alto Solim\u00f5es - AM",
+        "codigo": "165"
+      },
+      {
+        "nome": "Rio Negro da Cidadania Ind\u00edgena - AM",
+        "codigo": "136"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/14.json",
+    "id": 14,
+    "nome": "Roraima",
+    "sigla": "RR",
+    "local_institucional": [
+      {
+        "nome": "Sul De Roraima - RR",
+        "codigo": "91"
+      },
+      {
+        "nome": "Terra Ind\u00edgena Raposa Serra do Sol e S\u00e3o Marcos - RR",
+        "codigo": "122"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/17.json",
+    "id": 17,
+    "nome": "Tocantins",
+    "sigla": "TO",
+    "local_institucional": [
+      {
+        "nome": "Bico Do Papagaio - TO",
+        "codigo": "22"
+      },
+      {
+        "nome": "Jalap\u00e3o - TO",
+        "codigo": "107"
+      },
+      {
+        "nome": "Sudeste - TO",
+        "codigo": "124"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/24.json",
+    "id": 24,
+    "nome": "Rio Grande do Norte",
+    "sigla": "RN",
+    "local_institucional": [
+      {
+        "nome": "A\u00e7u-Mossor\u00f3 - RN",
+        "codigo": "1"
+      },
+      {
+        "nome": "Alto Oeste - RN",
+        "codigo": "134"
+      },
+      {
+        "nome": "Mato Grande - RN",
+        "codigo": "55"
+      },
+      {
+        "nome": "Potengi - RN",
+        "codigo": "123"
+      },
+      {
+        "nome": "Serid\u00f3 - RN",
+        "codigo": "76"
+      },
+      {
+        "nome": "Sert\u00e3o Do Apodi - RN",
+        "codigo": "32"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/27.json",
+    "id": 27,
+    "nome": "Alagoas",
+    "sigla": "AL",
+    "local_institucional": [
+      {
+        "nome": "Da Bacia Leiteira - AL",
+        "codigo": "36"
+      },
+      {
+        "nome": "Do Agreste - AL",
+        "codigo": "39"
+      },
+      {
+        "nome": "Do Alto Sert\u00e3o - AL",
+        "codigo": "40"
+      },
+      {
+        "nome": "Do Litoral Norte - AL",
+        "codigo": "41"
+      },
+      {
+        "nome": "Do M\u00e9dio Sert\u00e3o - AL",
+        "codigo": "42"
+      },
+      {
+        "nome": "Mata Alagoana - AL",
+        "codigo": "126"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/28.json",
+    "id": 28,
+    "nome": "Sergipe",
+    "sigla": "SE",
+    "local_institucional": [
+      {
+        "nome": "Alto Sert\u00e3o - SE",
+        "codigo": "8"
+      },
+      {
+        "nome": "Baixo S\u00e3o Francisco - SE",
+        "codigo": "135"
+      },
+      {
+        "nome": "Sert\u00e3o Ocidental - SE",
+        "codigo": "84"
+      },
+      {
+        "nome": "Sul Sergipano - SE",
+        "codigo": "105"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/29.json",
+    "id": 29,
+    "nome": "Bahia",
+    "sigla": "BA",
+    "local_institucional": [
+      {
+        "nome": "Baixo Sul - BA",
+        "codigo": "21"
+      },
+      {
+        "nome": "Chapada Diamantina - BA",
+        "codigo": "31"
+      },
+      {
+        "nome": "Do Sisal - BA",
+        "codigo": "43"
+      },
+      {
+        "nome": "Irec\u00ea - BA",
+        "codigo": "50"
+      },
+      {
+        "nome": "Litoral Sul - BA",
+        "codigo": "90"
+      },
+      {
+        "nome": "Semi-\u00e1rido Nordeste II - BA",
+        "codigo": "162"
+      },
+      {
+        "nome": "Sert\u00e3o do S\u00e3o Francisco - BA",
+        "codigo": "143"
+      },
+      {
+        "nome": "Velho Chico - BA",
+        "codigo": "102"
+      },
+      {
+        "nome": "Itaparica - BA\/PE",
+        "codigo": "118"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/31.json",
+    "id": 31,
+    "nome": "Minas Gerais",
+    "sigla": "MG",
+    "local_institucional": [
+      {
+        "nome": "Das \u00c1guas Emendadas - DF\/GO\/MG",
+        "codigo": "38"
+      },
+      {
+        "nome": "Alto Jequitinhonha - MG",
+        "codigo": "5"
+      },
+      {
+        "nome": "Alto Rio Pardo - MG",
+        "codigo": "7"
+      },
+      {
+        "nome": "Baixo Jequitinhonha - MG",
+        "codigo": "117"
+      },
+      {
+        "nome": "M\u00e9dio Jequitinhonha - MG",
+        "codigo": "57"
+      },
+      {
+        "nome": "Noroeste De Minas - MG",
+        "codigo": "63"
+      },
+      {
+        "nome": "Serra Geral - MG",
+        "codigo": "79"
+      },
+      {
+        "nome": "Sert\u00e3o de Minas - MG",
+        "codigo": "48"
+      },
+      {
+        "nome": "Vale Do Mucuri - MG",
+        "codigo": "99"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/43.json",
+    "id": 43,
+    "nome": "Rio Grande do Sul",
+    "sigla": "RS",
+    "local_institucional": [
+      {
+        "nome": "M\u00e9dio Alto Uruguai - RS",
+        "codigo": "56"
+      },
+      {
+        "nome": "Noroeste Colonial - RS",
+        "codigo": "147"
+      },
+      {
+        "nome": "Regi\u00e3o Central - RS",
+        "codigo": "75"
+      },
+      {
+        "nome": "Zona Sul Do Estado - RS",
+        "codigo": "104"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/50.json",
+    "id": 50,
+    "nome": "Mato Grosso do Sul",
+    "sigla": "MS",
+    "local_institucional": [
+      {
+        "nome": "Cone Sul - MS",
+        "codigo": "35"
+      },
+      {
+        "nome": "Da Reforma - MS",
+        "codigo": "37"
+      },
+      {
+        "nome": "Grande Dourados - MS",
+        "codigo": "47"
+      },
+      {
+        "nome": "Vale do Ivinhema - MS",
+        "codigo": "127"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/51.json",
+    "id": 51,
+    "nome": "Mato Grosso",
+    "sigla": "MT",
+    "local_institucional": [
+      {
+        "nome": "Baixada Cuiabana - MT",
+        "codigo": "16"
+      },
+      {
+        "nome": "Baixo Araguaia - MT",
+        "codigo": "19"
+      },
+      {
+        "nome": "Noroeste - MT",
+        "codigo": "163"
+      },
+      {
+        "nome": "Portal Da Amaz\u00f4nia - MT",
+        "codigo": "74"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/53.json",
+    "id": 53,
+    "nome": "Distrito Federal",
+    "sigla": "DF",
+    "local_institucional": [
+      {
+        "nome": "Das \u00c1guas Emendadas - DF\/GO\/MG",
+        "codigo": "38"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/33.json",
+    "id": 33,
+    "nome": "Rio de Janeiro",
+    "sigla": "RJ",
+    "local_institucional": [
+      {
+        "nome": "Noroeste - RJ",
+        "codigo": "62"
+      },
+      {
+        "nome": "Norte - RJ",
+        "codigo": "65"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/42.json",
+    "id": 42,
+    "nome": "Santa Catarina",
+    "sigla": "SC",
+    "local_institucional": [
+      {
+        "nome": "Meio Oeste Contestado - SC",
+        "codigo": "33"
+      },
+      {
+        "nome": "Planalto Norte - SC",
+        "codigo": "70"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/26.json",
+    "id": 26,
+    "nome": "Pernambuco",
+    "sigla": "PE",
+    "local_institucional": [
+      {
+        "nome": "Itaparica - BA\/PE",
+        "codigo": "118"
+      },
+      {
+        "nome": "Agreste Meridional - PE",
+        "codigo": "2"
+      },
+      {
+        "nome": "Mata Sul - PE",
+        "codigo": "54"
+      },
+      {
+        "nome": "Sert\u00e3o do Araripe - PE",
+        "codigo": "81"
+      },
+      {
+        "nome": "Sert\u00e3o Do Paje\u00fa - PE",
+        "codigo": "82"
+      },
+      {
+        "nome": "Sert\u00e3o Do S\u00e3o Francisco - PE",
+        "codigo": "83"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/16.json",
+    "id": 16,
+    "nome": "Amap\u00e1",
+    "sigla": "AP",
+    "local_institucional": [
+      {
+        "nome": "Centro Oeste - AP",
+        "codigo": "94"
+      },
+      {
+        "nome": "Dos Lagos - AP",
+        "codigo": "112"
+      },
+      {
+        "nome": "Sul Do Amap\u00e1 - AP",
+        "codigo": "111"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/23.json",
+    "id": 23,
+    "nome": "Cear\u00e1",
+    "sigla": "CE",
+    "local_institucional": [
+      {
+        "nome": "Carir\u00ed - CE",
+        "codigo": "131"
+      },
+      {
+        "nome": "Inhamuns Crate\u00fas - CE",
+        "codigo": "49"
+      },
+      {
+        "nome": "Sert\u00e3o Central - CE",
+        "codigo": "80"
+      },
+      {
+        "nome": "Sert\u00f5es De Canind\u00e9 - CE",
+        "codigo": "85"
+      },
+      {
+        "nome": "Sobral - CE",
+        "codigo": "86"
+      },
+      {
+        "nome": "Vales do Curu e Aracatia\u00e7u - CE",
+        "codigo": "51"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/32.json",
+    "id": 32,
+    "nome": "Esp\u00edrito Santo",
+    "sigla": "ES",
+    "local_institucional": [
+      {
+        "nome": "Capara\u00f3 - ES",
+        "codigo": "26"
+      },
+      {
+        "nome": "Norte - ES",
+        "codigo": "64"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/52.json",
+    "id": 52,
+    "nome": "Goi\u00e1s",
+    "sigla": "GO",
+    "local_institucional": [
+      {
+        "nome": "Das \u00c1guas Emendadas - DF\/GO\/MG",
+        "codigo": "38"
+      },
+      {
+        "nome": "Chapada dos Veadeiros - GO",
+        "codigo": "121"
+      },
+      {
+        "nome": "Vale do Paran\u00e3 - GO",
+        "codigo": "125"
+      },
+      {
+        "nome": "Vale Do Rio Vermelho - GO",
+        "codigo": "67"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/21.json",
+    "id": 21,
+    "nome": "Maranh\u00e3o",
+    "sigla": "MA",
+    "local_institucional": [
+      {
+        "nome": "Alto Turi e Gurupi - MA",
+        "codigo": "139"
+      },
+      {
+        "nome": "Baixada Ocidental - MA",
+        "codigo": "115"
+      },
+      {
+        "nome": "Baixo Parna\u00edba - MA",
+        "codigo": "20"
+      },
+      {
+        "nome": "Campo e Lagos - MA",
+        "codigo": "141"
+      },
+      {
+        "nome": "Cocais - MA",
+        "codigo": "34"
+      },
+      {
+        "nome": "Len\u00e7\u00f3is Maranhenses\/Munin - MA",
+        "codigo": "52"
+      },
+      {
+        "nome": "M\u00e9dio Mearim - MA",
+        "codigo": "140"
+      },
+      {
+        "nome": "Vale Do Itapecuru - MA",
+        "codigo": "97"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/99.json",
+    "id": 99,
+    "nome": "UF N\u00e3o Identificada",
+    "sigla": "NI",
+    "local_institucional": [
+      
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/15.json",
+    "id": 15,
+    "nome": "Par\u00e1",
+    "sigla": "PA",
+    "local_institucional": [
+      {
+        "nome": "Baixo Amazonas - PA",
+        "codigo": "18"
+      },
+      {
+        "nome": "Baixo Tocantins - PA",
+        "codigo": "130"
+      },
+      {
+        "nome": "BR 163 - PA",
+        "codigo": "114"
+      },
+      {
+        "nome": "Maraj\u00f3 - PA",
+        "codigo": "129"
+      },
+      {
+        "nome": "Nordeste Paraense - PA",
+        "codigo": "61"
+      },
+      {
+        "nome": "Sudeste Paraense - PA",
+        "codigo": "87"
+      },
+      {
+        "nome": "Sul Do Par\u00e1\/Alto Xingu - PA",
+        "codigo": "92"
+      },
+      {
+        "nome": "Transamaz\u00f4nica -PA",
+        "codigo": "95"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/25.json",
+    "id": 25,
+    "nome": "Para\u00edba",
+    "sigla": "PB",
+    "local_institucional": [
+      {
+        "nome": "Borborema - PB",
+        "codigo": "24"
+      },
+      {
+        "nome": "Cariri Ocidental - PB",
+        "codigo": "27"
+      },
+      {
+        "nome": "Curinata\u00fa - PB",
+        "codigo": "160"
+      },
+      {
+        "nome": "M\u00e9dio Sert\u00e3o - PB",
+        "codigo": "59"
+      },
+      {
+        "nome": "Zona Da Mata Norte - PB",
+        "codigo": "103"
+      },
+      {
+        "nome": "Zona Da Mata Sul - PB",
+        "codigo": "120"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/22.json",
+    "id": 22,
+    "nome": "Piau\u00ed",
+    "sigla": "PI",
+    "local_institucional": [
+      {
+        "nome": "Carnaubais - PI",
+        "codigo": "28"
+      },
+      {
+        "nome": "Cocais - PI",
+        "codigo": "161"
+      },
+      {
+        "nome": "Entre Rios - PI",
+        "codigo": "45"
+      },
+      {
+        "nome": "Serra Da Capivara - PI",
+        "codigo": "77"
+      },
+      {
+        "nome": "Vale do Canind\u00e9 - PI",
+        "codigo": "133"
+      },
+      {
+        "nome": "Vale Do Guaribas - PI",
+        "codigo": "96"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/41.json",
+    "id": 41,
+    "nome": "Paran\u00e1",
+    "sigla": "PR",
+    "local_institucional": [
+      {
+        "nome": "Cantuquirigua\u00e7u - PR",
+        "codigo": "25"
+      },
+      {
+        "nome": "Norte Pioneiro - PR",
+        "codigo": "146"
+      },
+      {
+        "nome": "Paran\u00e1 Centro - PR",
+        "codigo": "68"
+      },
+      {
+        "nome": "Vale Do Ribeira - PR",
+        "codigo": "101"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/11.json",
+    "id": 11,
+    "nome": "Rond\u00f4nia",
+    "sigla": "RO",
+    "local_institucional": [
+      {
+        "nome": "Central - RO",
+        "codigo": "29"
+      },
+      {
+        "nome": "Madeira Mamor\u00e9 - RO",
+        "codigo": "53"
+      },
+      {
+        "nome": "Vale Do Jamar\u00ed - RO",
+        "codigo": "98"
+      }
+    ]
+  },
+  {
+    "url": "http:\/\/api.pgi.gov.br\/api\/1\/local\/estado\/35.json",
+    "id": 35,
+    "nome": "S\u00e3o Paulo",
+    "sigla": "SP",
+    "local_institucional": [
+      {
+        "nome": "Pontal Do Paranapanema - SP",
+        "codigo": "73"
+      },
+      {
+        "nome": "Sudoeste Paulista - SP",
+        "codigo": "89"
+      },
+      {
+        "nome": "Vale Do Ribeira - SP",
+        "codigo": "100"
+      }
+    ]
+  }
+]
