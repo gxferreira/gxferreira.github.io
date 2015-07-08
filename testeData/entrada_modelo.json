@@ -1,0 +1,832 @@
+{
+  "id": "api_API",
+  "name": "API",
+  "data": {
+    "tipo": "api"
+  },
+  "children": [
+    {
+      "id": "modulo_Compras sem licitação",
+      "name": "Compras s. licit.",
+      "data": {
+        "tipo": "modulo"
+      },
+      "children": [
+        {
+          "id": "metodo_compras_sem_licitacao",
+          "name": "compras_sem_licitacao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_itens_compras_sem_licitacao",
+          "name": "itens_compras_sem_licitacao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_compra_sem_licitacao",
+          "name": "compra_sem_licitacao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_item_sem_licitacao",
+          "name": "item_sem_licitacao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "modulo_Contratos",
+      "name": "Contratos",
+      "data": {
+        "tipo": "modulo"
+      },
+      "children": [
+        {
+          "id": "metodo_contratos",
+          "name": "contratos",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_aditivos_contratos",
+          "name": "aditivos_contratos",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_apostilamentos_contratos",
+          "name": "apostilamentos_contratos",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_tipos_contrato",
+          "name": "tipos_contrato",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_cronogramas",
+          "name": "cronogramas",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_eventos_contrato",
+          "name": "eventos_contrato",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_contrato",
+          "name": "contrato",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_aditivo_contrato",
+          "name": "aditivo_contrato",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_apostilamento_contrato",
+          "name": "apostilamento_contrato",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_tipo_contrato",
+          "name": "tipo_contrato",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_cronograma",
+          "name": "cronograma",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_evento_contrato",
+          "name": "evento_contrato",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "modulo_Fornecedores",
+      "name": "Fornecedores",
+      "data": {
+        "tipo": "modulo"
+      },
+      "children": [
+        {
+          "id": "metodo_ambitos_ocorrencia",
+          "name": "ambitos_ocorrencia",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_cnaes",
+          "name": "cnaes",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_fornecedores",
+          "name": "fornecedores",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_linhas_fornecimento",
+          "name": "linhas_fornecimento",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_municipios",
+          "name": "municipios",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_naturezas_juridicas",
+          "name": "naturezas_juridicas",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_ocorrencias_fornecedores",
+          "name": "ocorrencias_fornecedores",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_portes_empresa",
+          "name": "portes_empresa",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_prazos_ocorrencia",
+          "name": "prazos_ocorrencia",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_ramos_negocio",
+          "name": "ramos_negocio",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_tipos_ocorrencia",
+          "name": "tipos_ocorrencia",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_ambito_ocorrencia",
+          "name": "ambito_ocorrencia",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_cnae",
+          "name": "cnae",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_fornecedor_pf",
+          "name": "fornecedor_pf",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_fornecedor_pj",
+          "name": "fornecedor_pj",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_linha_fornecimento",
+          "name": "linha_fornecimento",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_municipio",
+          "name": "municipio",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_natureza_juridica",
+          "name": "natureza_juridica",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_ocorrencia_fornecedor",
+          "name": "ocorrencia_fornecedor",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_porte_empresa",
+          "name": "porte_empresa",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_prazo_ocorrencia",
+          "name": "prazo_ocorrencia",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_ramo_negocio",
+          "name": "ramo_negocio",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_tipo_ocorrencia",
+          "name": "tipo_ocorrencia",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "modulo_Licitações",
+      "name": "Licitações",
+      "data": {
+        "tipo": "modulo"
+      },
+      "children": [
+        {
+          "id": "metodo_irps",
+          "name": "irps",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_itens_irp",
+          "name": "itens_irp",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_participantes_item_irp",
+          "name": "participantes_item_irp",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_licitacoes",
+          "name": "licitacoes",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_itens_licitacao",
+          "name": "itens_licitacao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_modalidades_licitacao",
+          "name": "modalidades_licitacao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_orgaos",
+          "name": "orgaos",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_precos_praticados",
+          "name": "precos_praticados",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_itens_preco_praticado",
+          "name": "itens_preco_praticado",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_registros_preco",
+          "name": "registros_preco",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_itens_registro_preco",
+          "name": "itens_registro_preco",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_fornecedores_item_registro_preco",
+          "name": "fornecedores_item_registro_preco",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_renegociacoes_fornecedor_item_registro_preco",
+          "name": "renegociacoes_fornecedor_item_registro_preco",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_uasgs",
+          "name": "uasgs",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_irp",
+          "name": "irp",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_item_irp",
+          "name": "item_irp",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_participante_item_irp",
+          "name": "participante_item_irp",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_licitacao",
+          "name": "licitacao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_item_licitacao",
+          "name": "item_licitacao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_modalidade_licitacao",
+          "name": "modalidade_licitacao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_orgao",
+          "name": "orgao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_preco_praticado",
+          "name": "preco_praticado",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_item_preco_praticado",
+          "name": "item_preco_praticado",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_registro_preco",
+          "name": "registro_preco",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_item_registro_preco",
+          "name": "item_registro_preco",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_fornecedor_item_registro_preco",
+          "name": "fornecedor_item_registro_preco",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_renegociacao_fornecedor_item_registro_preco",
+          "name": "renegociacao_fornecedor_item_registro_preco",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_uasg",
+          "name": "uasg",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "modulo_Pregões",
+      "name": "Pregões",
+      "data": {
+        "tipo": "modulo"
+      },
+      "children": [
+        {
+          "id": "metodo_numeros_pregao",
+          "name": "numeros_pregao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_tipos_pregao",
+          "name": "tipos_pregao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_situacoes_pregao",
+          "name": "situacoes_pregao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_orgaos_pregao",
+          "name": "orgaos_pregao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_objetos_pregao",
+          "name": "objetos_pregao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_itens_pregao",
+          "name": "itens_pregao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_numero_pregao",
+          "name": "numero_pregao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_item_pregao",
+          "name": "item_pregao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "modulo_Materiais",
+      "name": "Materiais",
+      "data": {
+        "tipo": "modulo"
+      },
+      "children": [
+        {
+          "id": "metodo_classes",
+          "name": "classes",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_grupos",
+          "name": "grupos",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_pdms",
+          "name": "pdms",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_materiais",
+          "name": "materiais",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_classe",
+          "name": "classe",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_grupo",
+          "name": "grupo",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_pdm",
+          "name": "pdm",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_material",
+          "name": "material",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "modulo_Serviços",
+      "name": "Serviços",
+      "data": {
+        "tipo": "modulo"
+      },
+      "children": [
+        {
+          "id": "metodo_secoes",
+          "name": "secoes",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_divisoes",
+          "name": "divisoes",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_grupos",
+          "name": "grupos",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_classes",
+          "name": "classes",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_subclasses",
+          "name": "subclasses",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_servicos",
+          "name": "servicos",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_secao",
+          "name": "secao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_divisao",
+          "name": "divisao",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_grupo",
+          "name": "grupo",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_classe",
+          "name": "classe",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_subclasse",
+          "name": "subclasse",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        },
+        {
+          "id": "metodo_servico",
+          "name": "servico",
+          "data": {
+            "tipo": "metodo"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}
